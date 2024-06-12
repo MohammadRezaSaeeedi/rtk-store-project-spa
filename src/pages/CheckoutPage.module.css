@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px;
+    min-height: 100px;
+}
+
+.products {
+    width: 100%;
+}
+
+.empty {
+    text-align: center;
+}
+ .empty p {
+    font-size: 2rem;
+    color: #97EBEC;
+    border: 2px dashed #97EBEC;
+    border-radius: 8px;
+    margin: 0 10px;
+ }
+
+ .empty svg {
+font-size: 15rem;  
+color: #97EBEC;  
+}
