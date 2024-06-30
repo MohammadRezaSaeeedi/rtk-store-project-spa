@@ -9,7 +9,7 @@
     width: 300px;
     padding: 15px 25px;
     background-color: #fff;
-    border: 2px dashed #fe5d42;
+    border: 2px dashed #97EBEC;
     border-radius: 50px;
     margin: 10px;
     margin-right: 50px;
@@ -24,7 +24,7 @@
 }
 
 .information h3 {
-    color: #fe5d42;
+    color: #97EBEC;
     font-size: 1.5rem;
     margin-bottom: 40px;
 }
@@ -42,7 +42,7 @@
 
 .category svg,
 .information span svg {
-color:#fe5d42;
+color:#97EBEC;
 margin-right: 10px;
 }
 
@@ -54,7 +54,7 @@ margin-right: 10px;
 .information a {
     display: flex;
     align-items: center;
-    background-color: #fe5d42;
+    background-color: #97EBEC;
     padding: 5px 10px;
     color: #fff;
     border-radius: 12px;
